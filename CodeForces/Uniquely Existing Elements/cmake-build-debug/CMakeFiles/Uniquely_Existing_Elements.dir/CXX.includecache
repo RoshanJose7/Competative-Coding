@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Code/C C++/CC/Uniquely Existing Elements/main.cpp
+iostream
+-
+vector
+-
+bits/stdc++.h
+-
+
